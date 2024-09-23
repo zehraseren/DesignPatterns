@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DP.ChainOfResponsibility.props" />
+</Project>
