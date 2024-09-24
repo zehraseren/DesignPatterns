@@ -1,0 +1,28 @@
+﻿@model GetProductUpdateQueryResult
+@{
+    Layout = null;
+}
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+<div class="container">
+    <br />
+    <form method="post">
+        <label>#</label>
+        <input type="text" class="form-control" asp-for="ProductID" />
+        <br />
+        <label>Ürün Adı</label>
+        <input type="text" class="form-control" asp-for="Name" />
+        <br />
+        <label>Ürün Stok Sayısı</label>
+        <input type="text" class="form-control" asp-for="Stock" />
+        <br />
+        <label>Ürün Fiyatı</label>
+        <input type="text" class="form-control" asp-for="Price" />
+        <br />
+        <label>Ürün Açıklaması</label>
+        <input type="text" class="form-control" asp-for="Description" />
+        <br />
+        <button class="btn btn-outline-success">Ürünü Güncelle</button>
+    </form>
+</div>

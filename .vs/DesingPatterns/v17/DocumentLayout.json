@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3C729F0-36C9-4EFE-A5ED-CF46D39EE180}|ChainOfResponsibilityDesignPattern\\DP.ChainOfResponsibility\\DP.ChainOfResponsibility.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\chainofresponsibilitydesignpattern\\dp.chainofresponsibility\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C3C729F0-36C9-4EFE-A5ED-CF46D39EE180}|ChainOfResponsibilityDesignPattern\\DP.ChainOfResponsibility\\DP.ChainOfResponsibility.csproj|solutionrelative:chainofresponsibilitydesignpattern\\dp.chainofresponsibility\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5517C8E7-B1F9-489B-9533-D2FD52A2B9EB}|CQRSDesignPattern\\DP.CQRS\\DP.CQRS.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\cqrsdesignpattern\\dp.cqrs\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5517C8E7-B1F9-489B-9533-D2FD52A2B9EB}|CQRSDesignPattern\\DP.CQRS\\DP.CQRS.csproj|solutionrelative:cqrsdesignpattern\\dp.cqrs\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3C729F0-36C9-4EFE-A5ED-CF46D39EE180}|ChainOfResponsibilityDesignPattern\\DP.ChainOfResponsibility\\DP.ChainOfResponsibility.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\chainofresponsibilitydesignpattern\\dp.chainofresponsibility\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3C729F0-36C9-4EFE-A5ED-CF46D39EE180}|ChainOfResponsibilityDesignPattern\\DP.ChainOfResponsibility\\DP.ChainOfResponsibility.csproj|solutionrelative:chainofresponsibilitydesignpattern\\dp.chainofresponsibility\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5517C8E7-B1F9-489B-9533-D2FD52A2B9EB}|CQRSDesignPattern\\DP.CQRS\\DP.CQRS.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\cqrsdesignpattern\\dp.cqrs\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5517C8E7-B1F9-489B-9533-D2FD52A2B9EB}|CQRSDesignPattern\\DP.CQRS\\DP.CQRS.csproj|solutionrelative:cqrsdesignpattern\\dp.cqrs\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +24,27 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\ChainOfResponsibilityDesignPattern\\DP.ChainOfResponsibility\\Views\\Default\\Index.cshtml",
-              "RelativeDocumentMoniker": "ChainOfResponsibilityDesignPattern\\DP.ChainOfResponsibility\\Views\\Default\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\ChainOfResponsibilityDesignPattern\\DP.ChainOfResponsibility\\Views\\Default\\Index.cshtml",
-              "RelativeToolTip": "ChainOfResponsibilityDesignPattern\\DP.ChainOfResponsibility\\Views\\Default\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\CQRSDesignPattern\\DP.CQRS\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "CQRSDesignPattern\\DP.CQRS\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\CQRSDesignPattern\\DP.CQRS\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "CQRSDesignPattern\\DP.CQRS\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T23:54:59.646Z",
+              "WhenOpened": "2024-09-23T02:09:56.434Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "DefaultController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\ChainOfResponsibilityDesignPattern\\DP.ChainOfResponsibility\\Controllers\\DefaultController.cs",
-              "RelativeDocumentMoniker": "ChainOfResponsibilityDesignPattern\\DP.ChainOfResponsibility\\Controllers\\DefaultController.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\ChainOfResponsibilityDesignPattern\\DP.ChainOfResponsibility\\Controllers\\DefaultController.cs",
-              "RelativeToolTip": "ChainOfResponsibilityDesignPattern\\DP.ChainOfResponsibility\\Controllers\\DefaultController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\CQRSDesignPattern\\DP.CQRS\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "CQRSDesignPattern\\DP.CQRS\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\CQRSDesignPattern\\DP.CQRS\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "CQRSDesignPattern\\DP.CQRS\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T23:49:08.592Z",
+              "WhenOpened": "2024-09-24T02:22:10.578Z",
               "EditorCaption": ""
             }
           ]
