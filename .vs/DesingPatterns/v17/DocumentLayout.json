@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5517C8E7-B1F9-489B-9533-D2FD52A2B9EB}|CQRSDesignPattern\\DP.CQRS\\DP.CQRS.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\cqrsdesignpattern\\dp.cqrs\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5517C8E7-B1F9-489B-9533-D2FD52A2B9EB}|CQRSDesignPattern\\DP.CQRS\\DP.CQRS.csproj|solutionrelative:cqrsdesignpattern\\dp.cqrs\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A538CF1E-4AB7-4ABF-A2BB-15DCAA8A801F}|TemplateMethodDesignPattern\\DP.TemplateMethod\\DP.TemplateMethod.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\templatemethoddesignpattern\\dp.templatemethod\\views\\default\\ultraplanindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A538CF1E-4AB7-4ABF-A2BB-15DCAA8A801F}|TemplateMethodDesignPattern\\DP.TemplateMethod\\DP.TemplateMethod.csproj|solutionrelative:templatemethoddesignpattern\\dp.templatemethod\\views\\default\\ultraplanindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5517C8E7-B1F9-489B-9533-D2FD52A2B9EB}|CQRSDesignPattern\\DP.CQRS\\DP.CQRS.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\cqrsdesignpattern\\dp.cqrs\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5517C8E7-B1F9-489B-9533-D2FD52A2B9EB}|CQRSDesignPattern\\DP.CQRS\\DP.CQRS.csproj|solutionrelative:cqrsdesignpattern\\dp.cqrs\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A538CF1E-4AB7-4ABF-A2BB-15DCAA8A801F}|TemplateMethodDesignPattern\\DP.TemplateMethod\\DP.TemplateMethod.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\templatemethoddesignpattern\\dp.templatemethod\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A538CF1E-4AB7-4ABF-A2BB-15DCAA8A801F}|TemplateMethodDesignPattern\\DP.TemplateMethod\\DP.TemplateMethod.csproj|solutionrelative:templatemethoddesignpattern\\dp.templatemethod\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\CQRSDesignPattern\\DP.CQRS\\Views\\Default\\Index.cshtml",
-              "RelativeDocumentMoniker": "CQRSDesignPattern\\DP.CQRS\\Views\\Default\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\CQRSDesignPattern\\DP.CQRS\\Views\\Default\\Index.cshtml",
-              "RelativeToolTip": "CQRSDesignPattern\\DP.CQRS\\Views\\Default\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T02:09:56.434Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "DefaultController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\CQRSDesignPattern\\DP.CQRS\\Controllers\\DefaultController.cs",
-              "RelativeDocumentMoniker": "CQRSDesignPattern\\DP.CQRS\\Controllers\\DefaultController.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\CQRSDesignPattern\\DP.CQRS\\Controllers\\DefaultController.cs",
-              "RelativeToolTip": "CQRSDesignPattern\\DP.CQRS\\Controllers\\DefaultController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAwEgAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\TemplateMethodDesignPattern\\DP.TemplateMethod\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "TemplateMethodDesignPattern\\DP.TemplateMethod\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\TemplateMethodDesignPattern\\DP.TemplateMethod\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "TemplateMethodDesignPattern\\DP.TemplateMethod\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T02:22:10.578Z",
+              "WhenOpened": "2024-09-24T03:23:02.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UltraPlanIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\TemplateMethodDesignPattern\\DP.TemplateMethod\\Views\\Default\\UltraPlanIndex.cshtml",
+              "RelativeDocumentMoniker": "TemplateMethodDesignPattern\\DP.TemplateMethod\\Views\\Default\\UltraPlanIndex.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\TemplateMethodDesignPattern\\DP.TemplateMethod\\Views\\Default\\UltraPlanIndex.cshtml",
+              "RelativeToolTip": "TemplateMethodDesignPattern\\DP.TemplateMethod\\Views\\Default\\UltraPlanIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T03:21:39.217Z",
               "EditorCaption": ""
             }
           ]

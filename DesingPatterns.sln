@@ -11,6 +11,26 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CQRSDesignPattern", "CQRSDe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DP.CQRS", "CQRSDesignPattern\DP.CQRS\DP.CQRS.csproj", "{5517C8E7-B1F9-489B-9533-D2FD52A2B9EB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TemplateMethodDesingPattern", "TemplateMethodDesingPattern", "{104145BD-A3B3-4633-9E13-D47653BE0A82}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ObserveDesingPattern", "ObserveDesingPattern", "{949596AA-03D1-4590-B37E-35CC2F77928C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitOfWorkDesingPattern", "UnitOfWorkDesingPattern", "{93ED85BC-D6B2-49BB-A32E-C2A7E7F64F36}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RepositoryDesingPattern", "RepositoryDesingPattern", "{8B4F646A-AEC6-4E0F-B4D6-6E0343DEF213}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CompositeDesingPattern", "CompositeDesingPattern", "{90FFBBF3-47B3-4D00-A0A6-573896D50782}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MediatorDesingPattern", "MediatorDesingPattern", "{954407D3-86F1-4A09-9DEF-69F5DB90E532}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DecoratorDesingPattern", "DecoratorDesingPattern", "{1F026DD6-EDAA-43E8-9637-C94F8C00635B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FacadeDesingPattern", "FacadeDesingPattern", "{56C39BE8-4B6A-4B8D-A0A2-759E0D3439BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IteratorDesingPattern", "IteratorDesingPattern", "{FA34BB1C-D942-4D48-9753-A9623C8ECA33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP.TemplateMethod", "TemplateMethodDesignPattern\DP.TemplateMethod\DP.TemplateMethod.csproj", "{A538CF1E-4AB7-4ABF-A2BB-15DCAA8A801F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +45,10 @@ Global
 		{5517C8E7-B1F9-489B-9533-D2FD52A2B9EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5517C8E7-B1F9-489B-9533-D2FD52A2B9EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5517C8E7-B1F9-489B-9533-D2FD52A2B9EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A538CF1E-4AB7-4ABF-A2BB-15DCAA8A801F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A538CF1E-4AB7-4ABF-A2BB-15DCAA8A801F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A538CF1E-4AB7-4ABF-A2BB-15DCAA8A801F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A538CF1E-4AB7-4ABF-A2BB-15DCAA8A801F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +56,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{C3C729F0-36C9-4EFE-A5ED-CF46D39EE180} = {D676D2C4-622D-4EFC-A8A7-23CAE7D7C512}
 		{5517C8E7-B1F9-489B-9533-D2FD52A2B9EB} = {B3DF2449-80FE-46AB-BFC4-54FE760CF921}
+		{A538CF1E-4AB7-4ABF-A2BB-15DCAA8A801F} = {104145BD-A3B3-4633-9E13-D47653BE0A82}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2C055511-A5B4-48D0-ACD4-AB3B4BACF737}
