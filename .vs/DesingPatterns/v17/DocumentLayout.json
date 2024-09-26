@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61A11257-942F-4F8C-94F3-82E11FFD43BD}|ObserverDesignPattern\\DP.Observer\\DP.Observer.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\observerdesignpattern\\dp.observer\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{61A11257-942F-4F8C-94F3-82E11FFD43BD}|ObserverDesignPattern\\DP.Observer\\DP.Observer.csproj|solutionrelative:observerdesignpattern\\dp.observer\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{92FBB39A-46BD-4898-AFDB-048A673C2ACE}|RepositoryDesingPattern\\DP.Repository\\DP.Repository.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\repositorydesingpattern\\dp.repository\\views\\product\\productlistwithcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92FBB39A-46BD-4898-AFDB-048A673C2ACE}|RepositoryDesingPattern\\DP.Repository\\DP.Repository.csproj|solutionrelative:repositorydesingpattern\\dp.repository\\views\\product\\productlistwithcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61A11257-942F-4F8C-94F3-82E11FFD43BD}|ObserverDesignPattern\\DP.Observer\\DP.Observer.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\observerdesignpattern\\dp.observer\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61A11257-942F-4F8C-94F3-82E11FFD43BD}|ObserverDesignPattern\\DP.Observer\\DP.Observer.csproj|solutionrelative:observerdesignpattern\\dp.observer\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92FBB39A-46BD-4898-AFDB-048A673C2ACE}|RepositoryDesingPattern\\DP.Repository\\DP.Repository.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\repositorydesingpattern\\dp.repository\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92FBB39A-46BD-4898-AFDB-048A673C2ACE}|RepositoryDesingPattern\\DP.Repository\\DP.Repository.csproj|solutionrelative:repositorydesingpattern\\dp.repository\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FBB39A-46BD-4898-AFDB-048A673C2ACE}|RepositoryDesingPattern\\DP.Repository\\DP.Repository.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\repositorydesingpattern\\dp.repository\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FBB39A-46BD-4898-AFDB-048A673C2ACE}|RepositoryDesingPattern\\DP.Repository\\DP.Repository.csproj|solutionrelative:repositorydesingpattern\\dp.repository\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FBB39A-46BD-4898-AFDB-048A673C2ACE}|RepositoryDesingPattern\\DP.Repository\\DP.Repository.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\repositorydesingpattern\\dp.repository\\views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92FBB39A-46BD-4898-AFDB-048A673C2ACE}|RepositoryDesingPattern\\DP.Repository\\DP.Repository.csproj|solutionrelative:repositorydesingpattern\\dp.repository\\views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FBB39A-46BD-4898-AFDB-048A673C2ACE}|RepositoryDesingPattern\\DP.Repository\\DP.Repository.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\repositorydesingpattern\\dp.repository\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92FBB39A-46BD-4898-AFDB-048A673C2ACE}|RepositoryDesingPattern\\DP.Repository\\DP.Repository.csproj|solutionrelative:repositorydesingpattern\\dp.repository\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DefaultController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\ObserverDesignPattern\\DP.Observer\\Controllers\\DefaultController.cs",
-              "RelativeDocumentMoniker": "ObserverDesignPattern\\DP.Observer\\Controllers\\DefaultController.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\ObserverDesignPattern\\DP.Observer\\Controllers\\DefaultController.cs",
-              "RelativeToolTip": "ObserverDesignPattern\\DP.Observer\\Controllers\\DefaultController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T05:11:56.081Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\RepositoryDesingPattern\\DP.Repository\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "RepositoryDesingPattern\\DP.Repository\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\RepositoryDesingPattern\\DP.Repository\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "RepositoryDesingPattern\\DP.Repository\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T04:17:47.741Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\ObserverDesignPattern\\DP.Observer\\Views\\Default\\Index.cshtml",
-              "RelativeDocumentMoniker": "ObserverDesignPattern\\DP.Observer\\Views\\Default\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\ObserverDesignPattern\\DP.Observer\\Views\\Default\\Index.cshtml",
-              "RelativeToolTip": "ObserverDesignPattern\\DP.Observer\\Views\\Default\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Title": "ProductListWithCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\RepositoryDesingPattern\\DP.Repository\\Views\\Product\\ProductListWithCategory.cshtml",
+              "RelativeDocumentMoniker": "RepositoryDesingPattern\\DP.Repository\\Views\\Product\\ProductListWithCategory.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\RepositoryDesingPattern\\DP.Repository\\Views\\Product\\ProductListWithCategory.cshtml",
+              "RelativeToolTip": "RepositoryDesingPattern\\DP.Repository\\Views\\Product\\ProductListWithCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-25T05:06:54.416Z",
+              "WhenOpened": "2024-09-26T05:09:39.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\RepositoryDesingPattern\\DP.Repository\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "RepositoryDesingPattern\\DP.Repository\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\RepositoryDesingPattern\\DP.Repository\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "RepositoryDesingPattern\\DP.Repository\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T04:25:24.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\RepositoryDesingPattern\\DP.Repository\\Views\\Product\\UpdateProduct.cshtml",
+              "RelativeDocumentMoniker": "RepositoryDesingPattern\\DP.Repository\\Views\\Product\\UpdateProduct.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\RepositoryDesingPattern\\DP.Repository\\Views\\Product\\UpdateProduct.cshtml",
+              "RelativeToolTip": "RepositoryDesingPattern\\DP.Repository\\Views\\Product\\UpdateProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T04:25:55.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\RepositoryDesingPattern\\DP.Repository\\Views\\Product\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "RepositoryDesingPattern\\DP.Repository\\Views\\Product\\AddProduct.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\RepositoryDesingPattern\\DP.Repository\\Views\\Product\\AddProduct.cshtml",
+              "RelativeToolTip": "RepositoryDesingPattern\\DP.Repository\\Views\\Product\\AddProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T04:25:30.696Z",
               "EditorCaption": ""
             }
           ]

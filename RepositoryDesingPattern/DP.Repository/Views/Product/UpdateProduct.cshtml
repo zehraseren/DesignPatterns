@@ -1,0 +1,27 @@
+﻿@model Product
+@{
+    Layout = null;
+}
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+<div class="container">
+    <br />
+    <form method="post">
+        <input type="hidden" asp-for="ProductID" />
+        <label>Ürün Adı</label>
+        <input type="text" class="form-control" asp-for="ProductName" />
+        <br />
+        <label>Ürün Stok</label>
+        <input type="text" class="form-control" asp-for="ProductStock" />
+        <br />
+        <label>Ürün Fİyatı</label>
+        <input type="text" class="form-control" asp-for="ProductPrice" />
+        <br />
+        <label>Ürün Kategorisi</label>
+        @Html.DropDownListFor(x => x.CategoryID, (List<SelectListItem>)ViewBag.v, new { @class = "form-control" })
+        <br />
+        <button class="btn btn-outline-success">Ürünü Güncelle</button>
+        <a href="/Product/Index/" class="btn btn-outline-danger">Vazgeç</a>
+    </form>
+</div>
