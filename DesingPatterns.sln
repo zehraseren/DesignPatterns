@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DP.Repo.BusinessLayer", "Re
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CompositeDesingPattern", "CompositeDesingPattern", "{0E9A8EFA-9B9C-4281-B300-309B78F85189}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP.Composite", "CompositeDesingPattern\DP.Composite\DP.Composite.csproj", "{2971E32E-F9D0-4672-9A31-FC7DDCD0771A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DP.Composite", "CompositeDesingPattern\DP.Composite\DP.Composite.csproj", "{2971E32E-F9D0-4672-9A31-FC7DDCD0771A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP.Mediator", "MediatorDesingPattern\DP.Mediator\DP.Mediator.csproj", "{831D60CB-D126-4F91-82FF-9CB166CD422D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -109,6 +111,10 @@ Global
 		{2971E32E-F9D0-4672-9A31-FC7DDCD0771A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2971E32E-F9D0-4672-9A31-FC7DDCD0771A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2971E32E-F9D0-4672-9A31-FC7DDCD0771A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{831D60CB-D126-4F91-82FF-9CB166CD422D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831D60CB-D126-4F91-82FF-9CB166CD422D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831D60CB-D126-4F91-82FF-9CB166CD422D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831D60CB-D126-4F91-82FF-9CB166CD422D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -127,6 +133,7 @@ Global
 		{45FE67DC-9B9A-48C2-A2B6-2030650DF2BB} = {8B4F646A-AEC6-4E0F-B4D6-6E0343DEF213}
 		{59DE4A87-04D2-49BE-9F50-3152EFEBD79F} = {8B4F646A-AEC6-4E0F-B4D6-6E0343DEF213}
 		{2971E32E-F9D0-4672-9A31-FC7DDCD0771A} = {0E9A8EFA-9B9C-4281-B300-309B78F85189}
+		{831D60CB-D126-4F91-82FF-9CB166CD422D} = {954407D3-86F1-4A09-9DEF-69F5DB90E532}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2C055511-A5B4-48D0-ACD4-AB3B4BACF737}

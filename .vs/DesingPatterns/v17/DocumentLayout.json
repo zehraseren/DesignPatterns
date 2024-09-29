@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2971E32E-F9D0-4672-9A31-FC7DDCD0771A}|CompositeDesingPattern\\DP.Composite\\DP.Composite.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\compositedesingpattern\\dp.composite\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2971E32E-F9D0-4672-9A31-FC7DDCD0771A}|CompositeDesingPattern\\DP.Composite\\DP.Composite.csproj|solutionrelative:compositedesingpattern\\dp.composite\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{831D60CB-D126-4F91-82FF-9CB166CD422D}|MediatorDesingPattern\\DP.Mediator\\DP.Mediator.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\mediatordesingpattern\\dp.mediator\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{831D60CB-D126-4F91-82FF-9CB166CD422D}|MediatorDesingPattern\\DP.Mediator\\DP.Mediator.csproj|solutionrelative:mediatordesingpattern\\dp.mediator\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2971E32E-F9D0-4672-9A31-FC7DDCD0771A}|CompositeDesingPattern\\DP.Composite\\DP.Composite.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\compositedesingpattern\\dp.composite\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2971E32E-F9D0-4672-9A31-FC7DDCD0771A}|CompositeDesingPattern\\DP.Composite\\DP.Composite.csproj|solutionrelative:compositedesingpattern\\dp.composite\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{831D60CB-D126-4F91-82FF-9CB166CD422D}|MediatorDesingPattern\\DP.Mediator\\DP.Mediator.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\mediatordesingpattern\\dp.mediator\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{831D60CB-D126-4F91-82FF-9CB166CD422D}|MediatorDesingPattern\\DP.Mediator\\DP.Mediator.csproj|solutionrelative:mediatordesingpattern\\dp.mediator\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831D60CB-D126-4F91-82FF-9CB166CD422D}|MediatorDesingPattern\\DP.Mediator\\DP.Mediator.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\mediatordesingpattern\\dp.mediator\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831D60CB-D126-4F91-82FF-9CB166CD422D}|MediatorDesingPattern\\DP.Mediator\\DP.Mediator.csproj|solutionrelative:mediatordesingpattern\\dp.mediator\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,46 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\CompositeDesingPattern\\DP.Composite\\Views\\Default\\Index.cshtml",
-              "RelativeDocumentMoniker": "CompositeDesingPattern\\DP.Composite\\Views\\Default\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\CompositeDesingPattern\\DP.Composite\\Views\\Default\\Index.cshtml",
-              "RelativeToolTip": "CompositeDesingPattern\\DP.Composite\\Views\\Default\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\MediatorDesingPattern\\DP.Mediator\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "MediatorDesingPattern\\DP.Mediator\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\MediatorDesingPattern\\DP.Mediator\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "MediatorDesingPattern\\DP.Mediator\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-26T18:06:02.231Z",
+              "WhenOpened": "2024-09-29T11:35:59.213Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DefaultController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\CompositeDesingPattern\\DP.Composite\\Controllers\\DefaultController.cs",
-              "RelativeDocumentMoniker": "CompositeDesingPattern\\DP.Composite\\Controllers\\DefaultController.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\CompositeDesingPattern\\DP.Composite\\Controllers\\DefaultController.cs",
-              "RelativeToolTip": "CompositeDesingPattern\\DP.Composite\\Controllers\\DefaultController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\MediatorDesingPattern\\DP.Mediator\\Views\\Product\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "MediatorDesingPattern\\DP.Mediator\\Views\\Product\\AddProduct.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\MediatorDesingPattern\\DP.Mediator\\Views\\Product\\AddProduct.cshtml",
+              "RelativeToolTip": "MediatorDesingPattern\\DP.Mediator\\Views\\Product\\AddProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T14:00:05.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\MediatorDesingPattern\\DP.Mediator\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MediatorDesingPattern\\DP.Mediator\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\MediatorDesingPattern\\DP.Mediator\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MediatorDesingPattern\\DP.Mediator\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T17:24:55.673Z",
+              "WhenOpened": "2024-09-29T11:32:57.774Z",
               "EditorCaption": ""
             }
           ]
