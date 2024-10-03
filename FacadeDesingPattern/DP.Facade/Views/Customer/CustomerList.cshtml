@@ -1,0 +1,24 @@
+﻿@model List<Customer>
+@{
+    Layout = "~/Views/Shared/_FacadeLayout.cshtml";
+}
+
+<h1>Müşteri Listesi</h1>
+<table class="table table-bordered">
+    <tr>
+        <th>#</th>
+        <th>Müşteri Adı</th>
+        <th>Müşteri Soyadı</th>
+        <th>Şehir</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.CustomerID</td>
+            <td>@item.Name</td>
+            <td>@item.Surname</td>
+            <td>@item.City</td>
+        </tr>
+    }
+</table>
+<a href="/Customer/AddNewCustomer/" class="btn btn-primary">Yeni Müşteri Girişi</a>

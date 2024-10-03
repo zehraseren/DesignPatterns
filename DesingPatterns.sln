@@ -53,7 +53,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DP.Composite", "CompositeDe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DP.Mediator", "MediatorDesingPattern\DP.Mediator\DP.Mediator.csproj", "{831D60CB-D126-4F91-82FF-9CB166CD422D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP.Iterator", "IteratorDesignPattern\DP.Iterator\DP.Iterator.csproj", "{D18F430B-E0C3-41F2-AE67-E952F23E94BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DP.Iterator", "IteratorDesignPattern\DP.Iterator\DP.Iterator.csproj", "{D18F430B-E0C3-41F2-AE67-E952F23E94BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP.Facade", "FacadeDesingPattern\DP.Facade\DP.Facade.csproj", "{5FEB1CDC-9B16-4591-9E92-F0D807DB41CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -121,6 +123,10 @@ Global
 		{D18F430B-E0C3-41F2-AE67-E952F23E94BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D18F430B-E0C3-41F2-AE67-E952F23E94BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D18F430B-E0C3-41F2-AE67-E952F23E94BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FEB1CDC-9B16-4591-9E92-F0D807DB41CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FEB1CDC-9B16-4591-9E92-F0D807DB41CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FEB1CDC-9B16-4591-9E92-F0D807DB41CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FEB1CDC-9B16-4591-9E92-F0D807DB41CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -141,6 +147,7 @@ Global
 		{2971E32E-F9D0-4672-9A31-FC7DDCD0771A} = {0E9A8EFA-9B9C-4281-B300-309B78F85189}
 		{831D60CB-D126-4F91-82FF-9CB166CD422D} = {954407D3-86F1-4A09-9DEF-69F5DB90E532}
 		{D18F430B-E0C3-41F2-AE67-E952F23E94BA} = {FA34BB1C-D942-4D48-9753-A9623C8ECA33}
+		{5FEB1CDC-9B16-4591-9E92-F0D807DB41CB} = {56C39BE8-4B6A-4B8D-A0A2-759E0D3439BE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2C055511-A5B4-48D0-ACD4-AB3B4BACF737}

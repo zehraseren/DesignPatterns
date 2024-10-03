@@ -1,0 +1,22 @@
+﻿@model Product
+@{
+    ViewData["Title"] = "AddNewProduct";
+    Layout = "~/Views/Shared/_FacadeLayout.cshtml";
+}
+
+<form method="post">
+    <label>Ürün Adı</label>
+    <input type="text" class="form-control" asp-for="ProductName" />
+    <br />
+    <label>Stok Sayısı</label>
+    <input type="text" class="form-control" asp-for="ProductStock" />
+    <br />
+    <label>Fiyat</label>
+    <input type="text" class="form-control" asp-for="ProductPrice" />
+    <br />
+    <label>Kategori</label>
+    <input type="text" class="form-control" asp-for="ProductCategory" />
+    <br />
+    <button class="btn btn-success">Kaydet</button>
+    <a href="/Product/ProductList/" class="btn btn-danger">Vazgeç</a>
+</form>
