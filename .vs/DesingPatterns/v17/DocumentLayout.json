@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FEB1CDC-9B16-4591-9E92-F0D807DB41CB}|FacadeDesingPattern\\DP.Facade\\DP.Facade.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\facadedesingpattern\\dp.facade\\views\\order\\startorderdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5FEB1CDC-9B16-4591-9E92-F0D807DB41CB}|FacadeDesingPattern\\DP.Facade\\DP.Facade.csproj|solutionrelative:facadedesingpattern\\dp.facade\\views\\order\\startorderdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E7044F00-1736-42A0-B45B-5249F0B0A975}|DecoratorDesingPattern\\DP.Decorator\\DP.Decorator.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\decoratordesingpattern\\dp.decorator\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7044F00-1736-42A0-B45B-5249F0B0A975}|DecoratorDesingPattern\\DP.Decorator\\DP.Decorator.csproj|solutionrelative:decoratordesingpattern\\dp.decorator\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FEB1CDC-9B16-4591-9E92-F0D807DB41CB}|FacadeDesingPattern\\DP.Facade\\DP.Facade.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\facadedesingpattern\\dp.facade\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FEB1CDC-9B16-4591-9E92-F0D807DB41CB}|FacadeDesingPattern\\DP.Facade\\DP.Facade.csproj|solutionrelative:facadedesingpattern\\dp.facade\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7044F00-1736-42A0-B45B-5249F0B0A975}|DecoratorDesingPattern\\DP.Decorator\\DP.Decorator.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\decoratordesingpattern\\dp.decorator\\views\\default\\index3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7044F00-1736-42A0-B45B-5249F0B0A975}|DecoratorDesingPattern\\DP.Decorator\\DP.Decorator.csproj|solutionrelative:decoratordesingpattern\\dp.decorator\\views\\default\\index3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FEB1CDC-9B16-4591-9E92-F0D807DB41CB}|FacadeDesingPattern\\DP.Facade\\DP.Facade.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\facadedesingpattern\\dp.facade\\views\\order\\startorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5FEB1CDC-9B16-4591-9E92-F0D807DB41CB}|FacadeDesingPattern\\DP.Facade\\DP.Facade.csproj|solutionrelative:facadedesingpattern\\dp.facade\\views\\order\\startorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E7044F00-1736-42A0-B45B-5249F0B0A975}|DecoratorDesingPattern\\DP.Decorator\\DP.Decorator.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\decoratordesingpattern\\dp.decorator\\views\\default\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7044F00-1736-42A0-B45B-5249F0B0A975}|DecoratorDesingPattern\\DP.Decorator\\DP.Decorator.csproj|solutionrelative:decoratordesingpattern\\dp.decorator\\views\\default\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FEB1CDC-9B16-4591-9E92-F0D807DB41CB}|FacadeDesingPattern\\DP.Facade\\DP.Facade.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\facadedesingpattern\\dp.facade\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FEB1CDC-9B16-4591-9E92-F0D807DB41CB}|FacadeDesingPattern\\DP.Facade\\DP.Facade.csproj|solutionrelative:facadedesingpattern\\dp.facade\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7044F00-1736-42A0-B45B-5249F0B0A975}|DecoratorDesingPattern\\DP.Decorator\\DP.Decorator.csproj|c:\\users\\hp\\desktop\\coding\\desingpatterns\\decoratordesingpattern\\dp.decorator\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7044F00-1736-42A0-B45B-5249F0B0A975}|DecoratorDesingPattern\\DP.Decorator\\DP.Decorator.csproj|solutionrelative:decoratordesingpattern\\dp.decorator\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +26,58 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StartOrderDetail.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\FacadeDesingPattern\\DP.Facade\\Views\\Order\\StartOrderDetail.cshtml",
-              "RelativeDocumentMoniker": "FacadeDesingPattern\\DP.Facade\\Views\\Order\\StartOrderDetail.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\FacadeDesingPattern\\DP.Facade\\Views\\Order\\StartOrderDetail.cshtml",
-              "RelativeToolTip": "FacadeDesingPattern\\DP.Facade\\Views\\Order\\StartOrderDetail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Index3.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\DecoratorDesingPattern\\DP.Decorator\\Views\\Default\\Index3.cshtml",
+              "RelativeDocumentMoniker": "DecoratorDesingPattern\\DP.Decorator\\Views\\Default\\Index3.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\DecoratorDesingPattern\\DP.Decorator\\Views\\Default\\Index3.cshtml",
+              "RelativeToolTip": "DecoratorDesingPattern\\DP.Decorator\\Views\\Default\\Index3.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-03T07:16:55.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\FacadeDesingPattern\\DP.Facade\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "FacadeDesingPattern\\DP.Facade\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\FacadeDesingPattern\\DP.Facade\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "FacadeDesingPattern\\DP.Facade\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T19:23:12.934Z",
+              "WhenOpened": "2024-10-03T10:54:22.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "StartOrder.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\FacadeDesingPattern\\DP.Facade\\Views\\Order\\StartOrder.cshtml",
-              "RelativeDocumentMoniker": "FacadeDesingPattern\\DP.Facade\\Views\\Order\\StartOrder.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\FacadeDesingPattern\\DP.Facade\\Views\\Order\\StartOrder.cshtml",
-              "RelativeToolTip": "FacadeDesingPattern\\DP.Facade\\Views\\Order\\StartOrder.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\DecoratorDesingPattern\\DP.Decorator\\Views\\Default\\Index2.cshtml",
+              "RelativeDocumentMoniker": "DecoratorDesingPattern\\DP.Decorator\\Views\\Default\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\DecoratorDesingPattern\\DP.Decorator\\Views\\Default\\Index2.cshtml",
+              "RelativeToolTip": "DecoratorDesingPattern\\DP.Decorator\\Views\\Default\\Index2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-02T19:20:04.383Z",
+              "WhenOpened": "2024-10-03T10:50:52.238Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\FacadeDesingPattern\\DP.Facade\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "FacadeDesingPattern\\DP.Facade\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\FacadeDesingPattern\\DP.Facade\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "FacadeDesingPattern\\DP.Facade\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAeAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\DecoratorDesingPattern\\DP.Decorator\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "DecoratorDesingPattern\\DP.Decorator\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\DecoratorDesingPattern\\DP.Decorator\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "DecoratorDesingPattern\\DP.Decorator\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T10:45:29.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\DecoratorDesingPattern\\DP.Decorator\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "DecoratorDesingPattern\\DP.Decorator\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\DesingPatterns\\DecoratorDesingPattern\\DP.Decorator\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "DecoratorDesingPattern\\DP.Decorator\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T18:52:57.567Z",
+              "WhenOpened": "2024-10-03T10:44:50.002Z",
               "EditorCaption": ""
             }
           ]
