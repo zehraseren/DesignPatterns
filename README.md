@@ -6,7 +6,7 @@ Murat Yücedağ'ın [.Net Core ile Design Patterns](https://www.udemy.com/course
 
 ***
 
-Desing Pattern, yani tasarım deseni, yazılım geliştirme sürecinde karşılaşılan yaygın sorunlara çözüm sunan, tekrar kullanılabilir ve denenmiş çözüm önerileridir. Tasarım desenleri, nesne yönelimli programlamada belirli durumların için en iyi pratikleri ve yöntemleri içerir, böylece yazılımın esnek, anlaşılır ve sürdürebilir olmasını sağlar.
+Design Pattern, yani tasarım deseni, yazılım geliştirme sürecinde karşılaşılan yaygın sorunlara çözüm sunan, tekrar kullanılabilir ve denenmiş çözüm önerileridir. Tasarım desenleri, nesne yönelimli programlamada belirli durumlar için en iyi pratikleri ve yöntemleri içerir, böylece yazılımın esnek, anlaşılır ve sürdürülebilir olmasını sağlar.
 
 ###### Tasarım desenleri genellikle üç ana gruba ayrılır:
 1. Yaratıcı (Creational) Desenler
