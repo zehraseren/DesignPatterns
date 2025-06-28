@@ -50,7 +50,7 @@ Davranışsal desenler, nesneler arasındaki iletişimi ve işbirliğini düzenl
 
 #### ✨Design Pattern ve SOLID Prensipleri, yazılım geliştirme sürecinde kaliteyi artırmaya yönelik yaklaşımlardır, ancak farklı amaçlar ve yapılarla kullanılırlar.
 
-| Özellik | Desing Pattner | SOLID Prensipleri|
+| Özellik | design Pattner | SOLID Prensipleri|
 |---------|----------------|------------------|
 | Amaç | Belirli yazılım problemleri için yapılandırılmış çözümler sunar | İyi bir nesne yönelimli tasarım yapısı oluşturur |
 | Kapsam | Farklı problem türlerine göre kategorize edilen çeşitli desenler içerir | Beş temel prensipten oluşur |
